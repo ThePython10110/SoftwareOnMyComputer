@@ -1,6 +1,6 @@
 # Software On My Computer
 Literally just a(n incomplete) list of all the software (apps/VST plugins, etc.) I have on my computer (Windows 10).
-Everything is free (besides the games), and most of it is open-source. None of the links are direct download links (or at least they weren't when I made this list).
+Everything is free (besides the games), and most of them (well, the apps, anyway) are open-source. None of the links are direct download links (or at least they weren't when I made this list).
 An asterisk (\*) means that it's open-source.
 
 <details><summary><h1>Apps:</h1></summary>
@@ -167,16 +167,40 @@ If you don't know what this is, you couldn't possibly have been alive during COV
 </details>
 
 
-<details><summary>VST plugins</summary>
+<details><summary># VST plugins</summary>
+
+### [Airwindows](https://airwindows.com)\*
+A set of over **300** open-source VST effects with simple UI's. 
+ 
+### [AGML II](http://www.amplesound.net/en/pro-pd.asp?id=7)
+The best free virtual acoustic guitar I've been able to find (even though I play guitar, so I rarely use it). It has AU, VST2, VST3, AAX, RTAS, and standalone versions.
+ 
+### [BBC Symphony Orchestra Discover]
+A good-quality orchestral VST2/VST3/AU/AAX plugin from Spitfire.
+ 
+### [BlueArp](https://omg-instruments.com/wp/?page_id=63)
+A MIDI arpeggiator VST2/AU plugin. Personally, I prefer Cream.
+
+### [Cakewalk by Bandlab stuff](https://www.bandlab.com/products/cakewalk)
+Cakewalk by Bandlab comes with several plugins. The DirectX plugins are not supported by many current DAWS, and BREVERB and TH3 *will not run* anywhere besides Cakewalk. But several other plugins (BOOST11, Channel Tools, SI-Bass Guitar, SI-Drum Kit, SI-Electric Piano, and SI-String Section) work anywhere that supports VST2.
 
 ### [Carla](https://github.com/falkTX/Carla)\*
-"Carla is a fully-featured modular audio plugin host, with support for many audio drivers and plugin formats." It's also open-source and runs as a VST2, VST3, CLAP, and LV2 plugin, as well as a standalone app. Although Carla and Bespoke are very similar, I prefer Bespoke for various reasons.
+"Carla is a fully-featured modular audio plugin host, with support for many audio drivers and plugin formats." It's also open-source and runs as a LADSPA, DSSI, VST2, VST3, AU, and LV2 plugin, as well as a standalone app. Although Carla and Bespoke are very similar, I prefer Bespoke for various reasons.
+
+### [Several Chowdhury DSP plugins](https://chowdsp.com/products.html)\*
+These are interesting plugins. I'd have to say that the most unique is Chow Matrix, which is something for creating custom delay chains. One of the plugins says it "supports the following desktop plugin formats: VST3, AU, CLAP, AAX, Standalone, and LV2, as well as Standalone and AUv3 on iOS devices." The other plugin descriptions say nothing about what formats they're available in.
+
+### [Drum Pro](https://www.studiolinked.com/drum-pro/)
+Not the best drum plugin. It doesn't comply with the standard MIDI drum layout and although it has synthy drum sounds, it's just a rompler. 
+ 
+### [DISTRHO Cardinal](https://github.com/DISTRHO/Cardinal)\*
+An open-source VST2/VST3/LV2/CLAP/standalone version of VCV Rack v2.
  
 ### [Surge XT](https://surge-synthesizer.github.io)\*
-A VST2/VST3/CLAP/standalone synth. It can do quite a bit. 
+A VST3/AU/LV2/CLAP/standalone synth. It can do quite a bit. 
 
 ### [Vital Synth](https://vital.audio/)\*
-A VST2/VST3/standalone synth. The only source code that has been made publicly available hasn't been updated since April 2022, but it's still source code. I sort of prefer this to Surge XT. They both do similar things, but Vital is much more intuitive, although slightly more CPU-hungry.
+A VST2/VST3/AU/LV2standalone synth. The only source code that has been made publicly available hasn't been updated since April 2022, but it's still source code. I sort of prefer this to Surge XT. They both do similar things, but Vital is much more intuitive, although slightly more CPU-hungry.
  
 </details>
 
