@@ -3,7 +3,7 @@ Literally just a(n incomplete) list of all the software (apps/VST plugins, etc.)
 Everything is free (besides the games), and most of it is open-source. None of the links are direct download links (or at least they weren't when I made this list).
 An asterisk (\*) means that it's open-source.
 
-# Apps:
+<details><summary><h1>Apps:</h1></summary>
 
 ### Built-in Windows stuff
 Obvsiously.
@@ -53,9 +53,12 @@ I don't have a built-in tabbed file manager, so I use this instead. It may not l
 ### [Google Chrome](https://google.com/chrome)
 ### [Slack](https://slack.com)
 
-### Drivers/device-specific software
+</details>
+
+# Drivers/device-specific software
  - The driver for an M-Audio Fast Track Ultra (kind of buggy on Windows 10, making me even more hesitant to try Windows 11). The driver is no longer available on the M-Audio website, so I'm not going to put a link here.
  - The [driver](https://m-audio.com/support/download/drivers/usb-midi-series-5.0.1) for an M-Audio KeyRig 25 (or O2 25, since they're literally the exact same device)
  - [A few things](https://www.usa.canon.com/support/p/canoscan-lide-100) for my CanoScan LiDE 100
  - [Software](https://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=mfc7840w_all&os=10013) for a Brother MFC-7840W
  - [Logitech Unifying software](https://support.logi.com/hc/en-us/articles/360025297913). I somehow ended up with three Logitech Unifying mice and one keyboard, all of which are connected to the same receiver.
+ 
