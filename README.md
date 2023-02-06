@@ -5,7 +5,7 @@ An asterisk (\*) means that it's open-source.
 
 <details><summary><h1>Apps:</h1></summary>
 
-### Built-in Windows stuff
+### Built-in stuff
 Obvsiously.
 
 ### [7-Zip](https://7-zip.org)\*
@@ -26,7 +26,7 @@ A free (for personal use) utility for renaming multiple files at once.
 ### [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk)
 This used to be my main DAW, before I discovered Bespoke, and later Waveform. I never actually record anything useful, I just mess around. The main reason I still have it on my computer is that it can host 32-bit plugins (of which I have a few). It hosts 32 and 64-bit VST2, VST3, and DirectX plugins.
 
-###[Carla](https://github.com/falkTX/Carla)\*
+### [Carla](https://github.com/falkTX/Carla)\*
 "Carla is a fully-featured modular audio plugin host, with support for many audio drivers and plugin formats." It's also open-source. Although Carla and Bespoke are very similar, I prefer Bespoke for various reasons.
 
 ### [Clink](https://mridgers.github.io/clink)\*
@@ -46,19 +46,34 @@ An easy way to add Everything to the taskbar, made to look like normal Windows S
 
 ### [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)\*
 An open-source search utility with plenty of add-ons. I've looked at a lot of these, including [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) Run\*, [Keypirinha](https://keypirinha.com/), [ueli](https://ueli.app)\*, and [Wox](https://wox.one)\*.
+ 
+ ### [Git](https://git-scm.com/)\*
+ Version control software... I'm assuming if you're reading this list, you know what it is.
+ 
+ ### [GitHub CLI](https://cli.github.com)\*
+ A command line application for Git/GitHub.
+ 
+ ### [GitHub Desktop](https://desktop.github.com)\*
+ A UI application for Git/GitHub.
+ 
+### [Google Chrome](https://google.com/chrome)
+ Google's web browser. I know it may not necessarily be the fastest or the most secure, but it's the one I use.
+ 
+ ### [Muse Hub](https://www.musehub.com)
+ An app used to download things like MuseScore 4, Muse Sounds, Audacity, and a couple of other things. <rant>I'm literally going to uninstall this as soon as I finish this list... I hate this app for several reasons. Firstly, I just hate app installers that are also apps that need installation. It just seems ridiculous. Secondly (and most importantly), it installs a service that automatically runs in the background and makes it really annoying to get rid of. Uninstalling Muse Hub doesn't get rid of it, the folder it's in has... weird permissions, and you can't set the service to "manual" because you don't have permissions to do that, and you don't have permission to change the permission. While it could just be the torrent client it claims to be, there's no way to know. Basically, if it *is* a virus or something (I doubt it is, but still), it's a very well-designed one. </rant>
 
 ### [Tablacus Explorer](https://tablacus.github.io/explorer_en.html)\*
 I don't have a built-in tabbed file manager, so I use this instead. It may not look as nice and... *Mac-like* (yes, I said it) as that of Windows 11, but it's portable, open-source, works great and is incredibly customizeable, though it does require a bit of learning. I've tried several alternatives, such as [Files](https://files.community), [OneCommander](https://onecommmander.com), and multiple versions of QTTabBar (no link because I don't want to spend ten minutes trying to figure out which one is actually the newest), but Tablacus was just the one I liked more.
 
-### [Google Chrome](https://google.com/chrome)
 ### [Slack](https://slack.com)
 
 </details>
 
-# Drivers/device-specific software
+<details><summary><h1>Drivers/device-specific software</h1></summary>
  - The driver for an M-Audio Fast Track Ultra (kind of buggy on Windows 10, making me even more hesitant to try Windows 11). The driver is no longer available on the M-Audio website, so I'm not going to put a link here.
  - The [driver](https://m-audio.com/support/download/drivers/usb-midi-series-5.0.1) for an M-Audio KeyRig 25 (or O2 25, since they're literally the exact same device)
  - [A few things](https://www.usa.canon.com/support/p/canoscan-lide-100) for my CanoScan LiDE 100
  - [Software](https://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=mfc7840w_all&os=10013) for a Brother MFC-7840W
  - [Logitech Unifying software](https://support.logi.com/hc/en-us/articles/360025297913). I somehow ended up with three Logitech Unifying mice and one keyboard, all of which are connected to the same receiver.
  
+ </details>
