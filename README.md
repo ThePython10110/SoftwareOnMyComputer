@@ -1,7 +1,7 @@
 # Software On My Computer
 Literally just a(n incomplete) list of all the software (apps/VST plugins, etc.) I have on my computer (Windows 10).
 Everything is free (besides the games), and most of them (well, the apps, anyway) are open-source. None of the links are direct download links (or at least they weren't when I made this list).
-An asterisk (\*) means that it's open-source.
+An asterisk (\*) means that it's open-source. 
 
 <details><summary><h1>Apps:</h1></summary>
 
@@ -166,17 +166,40 @@ If you don't know what this is, you couldn't possibly have been alive during COV
 
 </details>
 
+<details><summary><h1>Games</h1></summary>
 
-<details><summary># VST plugins</summary>
+These are all the games I *own*, although I don't currently have all of them installed.
+
+### [Portal](https://store.steampowered.com/app/400/Portal)
+You probably know what this is. Set in the same universe as Half Life (which I've actually never played), a test subject wakes up in Aperture Laboratories. An AI named GLaDOS leads/forces her through several tests, most of which require a portal gun. Then a bunch of other things happen, that may or may not include baking and cake.
+
+### [Portal 2](https://store.steampowered.com/app/620/Portal_2)
+The sequel to Portal. 9 9 9 9 9 after the first game, Chell is awakened by a personality core named Wheatley, then has to do a bunch more testing, then several more things happen, which really establish the backstory of the game and prove that it's in the same universe as Half Life, as well as explaining why/how GLaDOS is the way she is. Did I mention there was also an entire 2-player cooperative sequel story included with it, as well as a built-in level editor and online (or split-screen) co-op? The worst thing about this game is the distinct absence of cake.
+
+### [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal_Stories_Mel)
+A fan-made Portal 2 mod set between Portal and Portal 2. Plenty of *really* hard tests and also a reasonable story (although it's not nearly as entertaining as the original games). Also, the music is great.
+
+
+
+### [StarCraft/Brood War/StarCraft Remastered](https://starcraft.com)
+An RTS game involving 3 species (Terran/human, Zerg, and Protoss) fighting each other for various reasons. There's a story, as well as online multiplayer with AI.
+
+### [StarCraft II](https://starcraft2.com)
+The highly superiour sequel to StarCraft. With better graphics, better sound, better gameplay, and a level editor with WAY more features than I'm ever going to use.
+
+### [Tachyon: The Fringe](https://store.steampowered.com/app/32760/Tachyon_The_Fringe)
+A space game that's older than I am, about the "Galactic Spanning Corporation" (GalSpan) trying to take over very profitable sectors from Bora colonists. You get to choose which side you play on, meaning you really need to play through twice. There are definitely some compatibility issues with Windows 10, but I managed to get it to run (after about five hours of trying). To make sure I wouldn't have to go through all that again, I just compressed the folder and uploaded it somewhere so that even if I have to/choose to reset/replace my computer, I can still easily get a working version. (I don't know how well this method would work with the Steam version, but that seems to work mostly fine anyway).
+
+</details>
+
+
+<details><summary><h1>VST plugins</h1></summary>
 
 ### [Airwindows](https://airwindows.com)\*
 A set of over **300** open-source VST effects with simple UI's. 
  
 ### [AGML II](http://www.amplesound.net/en/pro-pd.asp?id=7)
 The best free virtual acoustic guitar I've been able to find (even though I play guitar, so I rarely use it). It has AU, VST2, VST3, AAX, RTAS, and standalone versions.
- 
-### [BBC Symphony Orchestra Discover]
-A good-quality orchestral VST2/VST3/AU/AAX plugin from Spitfire.
  
 ### [BlueArp](https://omg-instruments.com/wp/?page_id=63)
 A MIDI arpeggiator VST2/AU plugin. Personally, I prefer Cream.
@@ -195,12 +218,30 @@ Not the best drum plugin. It doesn't comply with the standard MIDI drum layout a
  
 ### [DISTRHO Cardinal](https://github.com/DISTRHO/Cardinal)\*
 An open-source VST2/VST3/LV2/CLAP/standalone version of VCV Rack v2.
+
+### [Krush](https://www.tritik.com/product/krush)
+A great bitcrusher/downsampler, basically essential for Fez-like music...
+
+### [Melda Audio plugins](https://www.meldaproduction.com/downloads)
+Around 40 free VST2/VST3/AU/AAX plugins, mostly effects, and several more paid ones. I particularly like Monastery Grand, a piano instrument for MSoundFactory.
  
+### [Plogue Sforzando](https://www.plogue.com/products/sforzando.html)
+An SFZ soundfont player, also available as VST2/VST3.
+ 
+### [Spitfire BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover)
+A good-quality orchestral VST2/VST3/AU/AAX plugin from Spitfire.
+
+### [Spitfire LABS](https://labs.spitfireaudio.com)
+A plugin and over 50 libraries for it. This is mentioned on basically every list of free instrument plugins, usually right at the top.
+
 ### [Surge XT](https://surge-synthesizer.github.io)\*
 A VST3/AU/LV2/CLAP/standalone synth. It can do quite a bit. 
 
 ### [Vital Synth](https://vital.audio/)\*
 A VST2/VST3/AU/LV2standalone synth. The only source code that has been made publicly available hasn't been updated since April 2022, but it's still source code. I sort of prefer this to Surge XT. They both do similar things, but Vital is much more intuitive, although slightly more CPU-hungry.
+
+### [WaveForm Free built-in stuff]
+Waveform Free comes with several plugins, but as far as I can tell, they probably aren't useful anywhere else. But it does have a reasonable synth, several effects, a rompler, and a couple of other things.
  
 </details>
 
