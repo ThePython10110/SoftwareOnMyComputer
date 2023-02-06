@@ -3,7 +3,7 @@ Literally just a(n incomplete) list of all the software (apps/VST plugins, etc.)
 Everything is free (besides the games), and most of them (well, the apps, anyway) are open-source. None of the links are direct download links (or at least they weren't when I made this list).
 An asterisk (\*) means that it's open-source. 
 
-<details><summary><h1>Apps:</h1></summary>
+<details><summary><h1>Apps</h1></summary>
 
 ### Built-in stuff
 Obvsiously.
@@ -170,16 +170,35 @@ If you don't know what this is, you couldn't possibly have been alive during COV
 
 These are all the games I *own*, although I don't currently have all of them installed.
 
+### [Baba is You](https://store.steampowered.com/app/736260/Baba_Is_You)
+A 2D tile-pushing puzzle game where the rules keep changing. I don't honestly know how best to explain this game, but basically, there are words that you can push around to control the way the world works. There's also a level editor and sharing system.
+
+### [Biped](https://store.steampowered.com/app/1071870/Biped)
+Honestly, very similar to Human Fall Flat, only it's 1-2 players controlling robots, and you control your feet instead of your hands. 
+
+### [Human: Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat)
+Blobby humanoids with gecko hands flop around trying to reach the end of the level. That's about it. You can also create levels with Unity, which is pretty cool.
+ 
+### [FEZ](https://store.steampowered.com/app/224760/FEZ)
+A perspective-based puzzle platformer, involving a 2-dimensional character, Gomez, discovering the power of rotation around the vertical axis using a magical fez. Although it doesn't have much of a story, it is an amazing game (even though I had to look up the answers to several puzzles). The music is also great. The weirdest thing about FEZ is the fact that there's one puzzle that nobody has really "solved." People have brute-forced it and posted the solution online, but even though the game's been around since 2012, nobody's figured out *why*.
+ 
+### [ibb & obb](https://store.steampowered.com/app/95400/ibb__obb)
+A 2-player co-op 2D platformer game with gravity reversal. That's about all I have to say.
+ 
+### [Minetest](https://minetest.net)\*
+Minetest is an open-source, cross-platform, portable voxel game engine and client (?), with which several games have been made, including Minetest Game, which is just kind of a basic built-in game. There's also MineClone 2, a game that is trying to recreate MineCraft. It's got easy multiplayer, and anyone can host a server. Also, all Minetest mods and games are written in Lua, meaning that they're also open-source and relatively easy to make, assuming you know how to code.
+
 ### [Portal](https://store.steampowered.com/app/400/Portal)
-You probably know what this is. Set in the same universe as Half Life (which I've actually never played), a test subject wakes up in Aperture Laboratories. An AI named GLaDOS leads/forces her through several tests, most of which require a portal gun. Then a bunch of other things happen, that may or may not include baking and cake.
+You probably know what this is. Set in the same universe as Half Life (which I've actually never played), a test subject wakes up in Aperture Laboratories. An AI named GLaDOS leads/forces her through several tests, most of which require a portal gun. Then a bunch of other things happen, that may or may not include baking and cake. It's a great game with phrases like "Fifteen Hundred Megawatt Aperture Science Heavy Duty Super-Colliding Super Button."
 
 ### [Portal 2](https://store.steampowered.com/app/620/Portal_2)
-The sequel to Portal. 9 9 9 9 9 after the first game, Chell is awakened by a personality core named Wheatley, then has to do a bunch more testing, then several more things happen, which really establish the backstory of the game and prove that it's in the same universe as Half Life, as well as explaining why/how GLaDOS is the way she is. Did I mention there was also an entire 2-player cooperative sequel story included with it, as well as a built-in level editor and online (or split-screen) co-op? The worst thing about this game is the distinct absence of cake.
+The sequel to Portal. 9 9 9 9 9 after the first game, Chell is awakened by a personality core named Wheatley, then has to do a bunch more testing, then several more things happen, which really establish the backstory of the game and prove that it's in the same universe as Half Life, as well as explaining why/how GLaDOS is the way she is. Did I mention there was also an entire 2-player cooperative sequel story included with it, as well as a built-in level editor and online (or split-screen) co-op? The worst thing about this game is the distinct absence of cake. How could you not play a game with quotes like, "When life gives you lemons, don't make lemonade. Make life take the lemons back! ... Demand to see life's manager! ... Do you know who I am? I'm the man who's going to burn your house down! With the lemons! I'm going to get my engineers to make a combustible lemon that BURNS YOUR HOUSE DOWN!"
 
 ### [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal_Stories_Mel)
 A fan-made Portal 2 mod set between Portal and Portal 2. Plenty of *really* hard tests and also a reasonable story (although it's not nearly as entertaining as the original games). Also, the music is great.
 
-
+### [Quantum Conundrum](https://store.steampowered.com/app/200010/Quantum_Conundrum)
+A game where you can switch between dimensions (not like X, Y, Z, more like Fluffy, Heavy, etc) to complete levels.
 
 ### [StarCraft/Brood War/StarCraft Remastered](https://starcraft.com)
 An RTS game involving 3 species (Terran/human, Zerg, and Protoss) fighting each other for various reasons. There's a story, as well as online multiplayer with AI.
@@ -189,6 +208,9 @@ The highly superiour sequel to StarCraft. With better graphics, better sound, be
 
 ### [Tachyon: The Fringe](https://store.steampowered.com/app/32760/Tachyon_The_Fringe)
 A space game that's older than I am, about the "Galactic Spanning Corporation" (GalSpan) trying to take over very profitable sectors from Bora colonists. You get to choose which side you play on, meaning you really need to play through twice. There are definitely some compatibility issues with Windows 10, but I managed to get it to run (after about five hours of trying). To make sure I wouldn't have to go through all that again, I just compressed the folder and uploaded it somewhere so that even if I have to/choose to reset/replace my computer, I can still easily get a working version. (I don't know how well this method would work with the Steam version, but that seems to work mostly fine anyway).
+
+### [There Is No Game: Wrong Dimension](https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension)
+A point and click puzzle game that does not want to be played... and also has a girlfriend.
 
 </details>
 
