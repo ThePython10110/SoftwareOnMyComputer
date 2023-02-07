@@ -181,7 +181,7 @@ Blobby humanoids with gecko hands flop around trying to reach the end of the lev
  
 ### [FEZ](https://store.steampowered.com/app/224760/FEZ)
 A perspective-based puzzle platformer, involving a 2-dimensional character, Gomez, discovering the power of rotation around the vertical axis using a magical fez. Although it doesn't have much of a story, it is an amazing game (even though I had to look up the answers to several puzzles). The music is also great. The weirdest thing about FEZ is the fact that there's one puzzle that nobody has really "solved." People have brute-forced it and posted the solution online, but even though the game's been around since 2012, nobody's figured out *why*.
- 
+
 ### [ibb & obb](https://store.steampowered.com/app/95400/ibb__obb)
 A 2-player co-op 2D platformer game with gravity reversal. That's about all I have to say.
  
@@ -241,12 +241,36 @@ Not the best drum plugin. It doesn't comply with the standard MIDI drum layout a
 ### [DISTRHO Cardinal](https://github.com/DISTRHO/Cardinal)\*
 An open-source VST2/VST3/LV2/CLAP/standalone version of VCV Rack v2.
 
+### [Funimator](https://musictop69.wixsite.com/orchestools/media)\*
+Sort of a filter/gain sequencer. It's open source, and available as a VST3.
+
 ### [Krush](https://www.tritik.com/product/krush)
 A great bitcrusher/downsampler, basically essential for Fez-like music...
 
+### [Magical 8bit Plug](https://ymck.net/app/magical-8bit-plug-en)\*
+An 8-bit synth, meant to sound like that of old video games. It's open-source.
+
 ### [Melda Audio plugins](https://www.meldaproduction.com/downloads)
 Around 40 free VST2/VST3/AU/AAX plugins, mostly effects, and several more paid ones. I particularly like Monastery Grand, a piano instrument for MSoundFactory.
- 
+
+### [MIDImonitor](https://web.archive.org/web/20180329184952/http://www.thepiz.org/plugins/?p=midiMonitor)\*
+Apparently, the official website doesn't exist anymore. As far as I can tell, this plugin (and all the other plugins) are open-source and located [here](https://code.google.com/archive/p/pizmidi/downloads), but I'm not going to actually download things looking for the source code.
+
+### [MT-PowerDrumKit](https://www.powerdrumkit.com)
+A great sounding sampled drum kit VST/AU/AAX plugin. It has a rather annoying nag screen every time you load it, and it doesn't produce sound until you skip it. You can get rid of it by donating. You can route each drum individually, to up to 8 different stereo outputs. It also has a *grooves* feature, letting you easily find drumm patterns and drag them into your DAW.
+
+### [Muse FX](https://www.musehub.com)
+A few effects (Chorus, Compressor, De-esser, Delay, Master, Noise Gate, Pitch Fix, Reverb, Rotary, and two EQ effects). Unfortunately, they must be downloaded through Muse Hub.
+
+### [Orchestools P1ano S](https://musictop69.wixsite.com/orchestools)\*
+An open-source piano plugin. In my opinion, it doesn't sound that great. It's available as a VST3, "Linux plugin," and Windows standalone app.
+
+### [Orchestools Sections](https://musictop69.wixsite.com/orchestools/orchestools-two)\*
+Four great (and open-source) orchestral plugins: Strings, Brass, Winds, and Percussion, available as VST3 and... "Linux plugin," which I'm not going to download right now.
+
+### [PAPU](https://socalabs.com/synths/papu)\*
+An open-source VST2, VST3, "Mac," and "Linux" plugin. I won't download those to figure out what the other formats are. It's a Nintendo Gameboy synth emulator.
+
 ### [Plogue Sforzando](https://www.plogue.com/products/sforzando.html)
 An SFZ soundfont player, also available as VST2/VST3.
  
@@ -255,6 +279,9 @@ A good-quality orchestral VST2/VST3/AU/AAX plugin from Spitfire.
 
 ### [Spitfire LABS](https://labs.spitfireaudio.com)
 A plugin and over 50 libraries for it. This is mentioned on basically every list of free instrument plugins, usually right at the top.
+
+### [SUB Analog Drums](https://plugins4free.com/plugin/3133)
+Not including a link to the official website because it just says, "unlock free download with a social share." It's a drum synth, available as VST and AU plugins.
 
 ### [Surge XT](https://surge-synthesizer.github.io)\*
 A VST3/AU/LV2/CLAP/standalone synth. It can do quite a bit. 
