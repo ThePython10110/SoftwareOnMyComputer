@@ -295,6 +295,7 @@ Waveform Free comes with several plugins, but as far as I can tell, they probabl
 </details>
 
 <details><summary><h1>Drivers/device-specific software</h1></summary>
+ 
  - The driver for an M-Audio Fast Track Ultra (kind of buggy on Windows 10, making me even more hesitant to try Windows 11). The driver is no longer available on the M-Audio website, so I'm not going to put a link here.
  - The [driver](https://m-audio.com/support/download/drivers/usb-midi-series-5.0.1) for an M-Audio KeyRig 25 (or O2 25, since they're literally the exact same device)
  - [A few things](https://www.usa.canon.com/support/p/canoscan-lide-100) for my CanoScan LiDE 100
