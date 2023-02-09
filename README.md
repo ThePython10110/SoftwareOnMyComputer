@@ -232,6 +232,9 @@ Cakewalk by Bandlab comes with several plugins. The DirectX plugins are not supp
 ### [Carla](https://github.com/falkTX/Carla)\*
 "Carla is a fully-featured modular audio plugin host, with support for many audio drivers and plugin formats." It's also open-source and runs as a LADSPA, DSSI, VST2, VST3, AU, and LV2 plugin, as well as a standalone app. Although Carla and Bespoke are very similar, I prefer Bespoke for various reasons.
 
+### [Cream](https://www.kirnuarp.com)
+An excellent arpeggiator plugin. The "demo" version (what I have) is literally just the full version but with no presets.
+ 
 ### [Several Chowdhury DSP plugins](https://chowdsp.com/products.html)\*
 These are interesting plugins. I'd have to say that the most unique is Chow Matrix, which is something for creating custom delay chains. One of the plugins says it "supports the following desktop plugin formats: VST3, AU, CLAP, AAX, Standalone, and LV2, as well as Standalone and AUv3 on iOS devices." The other plugin descriptions say nothing about what formats they're available in.
 
@@ -268,6 +271,9 @@ An open-source piano plugin. In my opinion, it doesn't sound that great. It's av
 ### [Orchestools Sections](https://musictop69.wixsite.com/orchestools/orchestools-two)\*
 Four great (and open-source) orchestral plugins: Strings, Brass, Winds, and Percussion, available as VST3 and... "Linux plugin," which I'm not going to download right now.
 
+### [Ribs](https://hvoyaaudio.itch.io/ribs)
+A VST/AU granular plugin.
+ 
 ### [PAPU](https://socalabs.com/synths/papu)\*
 An open-source VST2, VST3, "Mac," and "Linux" plugin. I won't download those to figure out what the other formats are. It's a Nintendo Gameboy synth emulator.
 
@@ -280,17 +286,32 @@ A good-quality orchestral VST2/VST3/AU/AAX plugin from Spitfire.
 ### [Spitfire LABS](https://labs.spitfireaudio.com)
 A plugin and over 50 libraries for it. This is mentioned on basically every list of free instrument plugins, usually right at the top.
 
+### [Steven Slate Drums 5.5 Free](https://stevenslatedrums.com/ssd5/#:~:text=GarageBand%20Big%20Sur-,SSD%205.5%20FREE,-Get%20the%20fully)
+A great drum plugin with no nag screen like MT-PowerDrumKit has.
+ 
 ### [SUB Analog Drums](https://plugins4free.com/plugin/3133)
 Not including a link to the official website because it just says, "unlock free download with a social share." It's a drum synth, available as VST and AU plugins.
 
 ### [Surge XT](https://surge-synthesizer.github.io)\*
 A VST3/AU/LV2/CLAP/standalone synth. It can do quite a bit. 
 
+### [Tape Cassette 2](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2)
+A tape simulator/emulator thing.
+ 
+### [TX16wX](https://www.tx16wx.com)
+A software sampler that can load various soundfonts and other things like that.
+ 
+### [Valhalla free plugins](https://valhalladsp.com)
+Several great reverb/delay plugins, available as VST2/VST3/AAX/AU plugins.
+ 
 ### [Vital Synth](https://vital.audio/)\*
 A VST2/VST3/AU/LV2standalone synth. The only source code that has been made publicly available hasn't been updated since April 2022, but it's still source code. I sort of prefer this to Surge XT. They both do similar things, but Vital is much more intuitive, although slightly more CPU-hungry.
 
 ### [WaveForm Free built-in stuff]
 Waveform Free comes with several plugins, but as far as I can tell, they probably aren't useful anywhere else. But it does have a reasonable synth, several effects, a rompler, and a couple of other things.
+
+### [XOXOS plugins](https://xoxos.net/vst/)
+A ton of (unfortunately 32-bit) VST plugins, including instruments and effects.
  
 </details>
 
