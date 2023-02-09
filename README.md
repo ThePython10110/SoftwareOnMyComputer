@@ -186,7 +186,7 @@ A perspective-based puzzle platformer, involving a 2-dimensional character, Gome
 A 2-player co-op 2D platformer game with gravity reversal. That's about all I have to say.
  
 ### [Minetest](https://minetest.net)\*
-Minetest is a free, open-source, cross-platform, portable voxel game engine and client (?), with which several games have been made, including Minetest Game, which is just kind of a basic built-in game. There's also MineClone 2, a game that is trying to recreate MineCraft. It's got easy multiplayer, and anyone can host a server. Also, all Minetest mods and games are written in Lua, meaning that they're also open-source and relatively easy to make, assuming you know how to code.
+Minetest is a free, open-source, cross-platform, portable voxel game engine and client (?), with which several games have been made, including Minetest Game, which is just kind of a basic built-in game. There's also MineClone 2, a game that is trying to recreate MineCraft. Minetest has easy multiplayer, and anyone can host a server. Also, all Minetest mods and games are written in Lua, meaning that they're also open-source and relatively easy to make, assuming you know how to code.
 
 ### [Portal](https://store.steampowered.com/app/400/Portal)
 You probably know what this is. Set in the same universe as Half Life (which I've actually never played), a test subject wakes up in Aperture Laboratories. An AI named GLaDOS leads/forces her through several tests, most of which require a portal gun. Then a bunch of other things happen, that may or may not include baking and cake. It's a great game with phrases like "Fifteen Hundred Megawatt Aperture Science Heavy Duty Super-Colliding Super Button."
