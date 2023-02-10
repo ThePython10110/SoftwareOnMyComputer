@@ -166,6 +166,9 @@ This is... a host... for VST plugins. About as simple as it gets. While this pro
  
 ### [Waveform Free](https://www.tracktion.com/products/waveform-free)
 Waveform Free is the only DAW I've ever found that has a free version that actually has all the features of the full version. The only difference is that the free version lacks a few built-in plugins (such as the arpeggiator and various effects). But there are free alternatives to all or most of them, so it really is just a DAW. It doesn't even have the usual "free version" things like nag screens, constant reminders that you don't have the full version, and track limits. It also has a really cool plugin rack feature.
+
+### [WingetUI](https://github.com/marticliment/WingetUI)\*
+An open-source UI for Winget and Scoop. Very useful, especially its update blacklisting feature.
  
 ### [WizTree](https://diskanalyzer.com/)
 Basically [WinDirStat](https://windirstat.net/)\* but much faster and not open-source. It looks through all the files and shows a visual representation of their size. I don't really need this app with a 4TB spinning disk, but it would have been nice to have when I had a 256GB SSD.
