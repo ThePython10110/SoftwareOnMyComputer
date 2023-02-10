@@ -11,27 +11,36 @@ Obvsiously.
 
 ### [7-Zip](https://7-zip.org)\*
 An open-source utility for creating and opening archives.
+
 `winget install 7zip.7zip`
+
 `scoop install 7zip`
 
 ### [Audacity](https://www.audacityteam.org)\*
 An open-source program for recording audio. I rarely use it, since I have alternatives with more features, but it's nice to have for some things.
+
 `winget install Audacity.Audacity`
+
 `scoop install audacity`
 
 ### [AutoHotkey (v2)](https://autohotkey.com)\*
 An open-source utility for creating custom hotkeys, macros, and various other things. I don't use it much, but I have an AHK autoclicker that's useful in some situations.
+
 `winget install AutoHotkey.AutoHotkey` (v2.x)
+
 `winget install Lexicos.Autohotkey` (v1.x)
 `scoop install autohotkey` (v2.x)
 
 ### [BespokeSynth](https://www.bespokesynth.com)\*
 An open-source modular DAW. It can host 64-bit VST2, VST3, LV2, and CLAP plugins, and it has several dozen built-in modules. Bespoke is absolutely incredible, and EVERYTHING can be modulated. Unfortunately, the last official release (1.1.0) was released in November 2021, but it's still being frequently updated, so nightly builds are really the only way to get all the features.
+
 `winget install BespokeSynth.BespokeSynth` (this installs 1.1.0, if you want the latest version, go to the [GitHub release page](https://github.com/BespokeSynth/BespokeSynth/releases) and download the nightly release)
 
 ### [Bulk Rename Utility](https://www.bulkrenameutility.co.uk)
 A free (for personal use) utility for renaming multiple files at once.
+
 `winget install TGRMNSoftware.BulkRenameUtility`
+
 `scoop install bulk-rename-utility`
 
 ### [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk)
@@ -48,12 +57,16 @@ A tool that makes pasting into certain places easier. Basically, you click the i
 
 ### [Clink](https://mridgers.github.io/clink)\*
 Some command prompt utility I literally never use... although looking at the website, maybe I should. I installed it because [`autojump`](https://github.com/wting/autojump)\* depended on it, but then I couldn't get `autojump` working.
+
 `winget install chrisant996.Clink`
+
 `scoop install clink`
 
 ### [Discord](https://discord.com)
 A chat/communication/messaging software.
+
 `winget install Discord.Discord`
+
 `scoop install discord`
 
 ### [DISTRHO Cardinal](https://github.com/DISTRHO/Cardinal)\*
@@ -61,34 +74,45 @@ An open-source VST2/VST3/LV2/CLAP/standalone version of VCV Rack v2.
 
 ### [Everything](https://www.voidtools.com)
 An amazing tool that can quickly search every single file on a Windows computer. 
+
 `winget install voidtools.Everything`
+
 `scoop install everything`
 
 ### [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)\*
 An easy way to add Everything to the taskbar, made to look like normal Windows Search.
+
 `winget install stnkl.EverythingToolbar`
 
 ### [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)\*
 An open-source search utility with plenty of add-ons. I've looked at a lot of these, including [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) Run\*, [Keypirinha](https://keypirinha.com/), [ueli](https://ueli.app)\*, and [Wox](https://wox.one)\*.
+
 `winget install Flow-Launcher.Flow-Launcher`
+
 `scoop install flow-launcher`
  
 ### [Git](https://git-scm.com/)\*
 Version control software... I'm assuming if you're reading this list, you know what it is.
+
 `winget install Git.Git`
+
 `scoop install git`
 
 ### [GitHub CLI](https://cli.github.com)\*
 A command line application for Git/GitHub.
+
 `winget install GitHub.cli`
 
 ### [GitHub Desktop](https://desktop.github.com)\*
 A UI application for Git/GitHub.
+
 `winget install GitHub.GitHubDesktop`
 
 ### [Google Chrome](https://google.com/chrome)
 Google's web browser. I know it may not necessarily be the fastest or the most secure, but it's the one I use.
+
 `winget install Google.Chrome`
+
 `scoop install googlechrome`
  
 ### [Helios](https://github.com/nickzman/helios)
@@ -100,7 +124,9 @@ A command line utility that can flip MIDI files. It supports wildcards, so you c
 
 ### [Micro](https://micro-editor.github.io/)\*
 Basically an open-source, cross-platform version of `nano`, with more features.
+
 `winget install zyedidia.Micro`
+
 `scoop install micro`
 
 ### [Muse Hub](https://www.musehub.com)
@@ -109,20 +135,28 @@ An app used to download things like MuseScore 4, Muse Sounds, Audacity, and a co
 ### [MuseScore](https://musescore.org)\*
 An open-source app for creating sheet msuic. I have both MuseScore 3 and MuseScore 4. I rarely use 4 because (in my opinion) it came out of beta *way* too early. It's got tons of bugs and WAY too much built-in unremovable reverb. But the features it adds (mostly the VST3 instrument/effect support) are huge improvements.
 For MuseScore 4:
+
 `winget install Musescore.Musescore`
+
 `scoop install musescore`
 For MuseScore 3 (untested):
+
 `winget install MuseScore.Musescore -v 3.6.2.548021803`
+
 `scoop install musescore@3.6.2.548021803`
 
 ### [Node.js](https://nodejs.org/en)\*
 Not entirely sure what exactly this is (a "JavaScript Runtime Environment"), but I know that there a bunch of things that are installed with `npm` (which I assume is the Node Package Manager). I installed this for [`midiflip`](https://github.com/1j01/midiflip)\*.
+
 `winget install OpenJS.NodeJS`
+
 `scoop install nodejs`
 
 ### [Notepad++](https://notepad-plus-plus.org/downloads)\*
 A text/code editor.
+
 `winget install Notepad++.Notepad++`
+
 `scoop install notepadplusplus`
  
 ### [O&O RegEditor](https://www.oo-software.com/en/ooregeditor)
@@ -134,30 +168,39 @@ A nice-looking screensaver.
  
 ### [Plogue Sforzando](https://www.plogue.com/products/sforzando.html)
 An SFZ soundfont player, also available as VST2/VST3.
+
 `winget install plogue.sforzando`
  
 ### [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3)\*
 I installed it one day, wondering what the difference was between Windows PowerShell and PowerShell 7... then discovered it had autocomplete and never used Windows PowerShell again. I've never really gone through any PowerShell tutorials, so I don't know how to actually use it on its own for scripting or anything, but it's nice to have autocomplete.
+
 `winget install Microsoft.PowerShell`
  
 ### [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys)
 Several Windows utilities. I mostly just use Always On Top, but occasionally find uses for a couple of the others.
+
 `winget install Microsoft.PowerToys`
+
 `scoop install powertoys`
  
 ### [PuTTY](https://www.putty.org)\*
 An SSH/Telnet client. I use it to connect to my Raspberry Pi.
+
 `winget install PuTTY.PuTTY`
+
 `scoop install putty`
 
 ### [Python](https://python.org)\*
 A programming language you've probably heard of.
+
 `winget install Python.Python.3.11` (or `Python.Python.2` or `Python.Python.3.[something]`)
 `scoop install python`
 
 ### [QuickLook](https://github.com/QL-Win/QuickLook)\*
 Exactly what it sounds like: Mac's Quick Look for Windows. When a file is selected, pressing space shows information about it.
+
 `winget install QL-Win.QuickLook`
+
 `scoop install quicklook`
 
 ### [SciTE4AutoHotkey](https://www.autohotkey.com/scite4ahk)\*
@@ -168,17 +211,23 @@ A package manager for Windows (but I usually just use Winget).
 
 ### [Shell](https://nilesoft.org)
 A way to modify the default Windows context menu. Support for alternate file managers, such as Tablacus, is somewhat incomplete, and there are some features that don't exist yet, but the developer seems to be pretty quick at fixing bugs.
+
 `winget install Nilesoft.Shell`
+
 `scoop install nilesoft-shell`
 
 ### [Slack](https://slack.com)
 A chat/communication/messaging software, but more business-oriented that Discord.
+
 `winget install SlackTechnologies.Slack`
+
 `scoop install slack`
 
 ### [SoundSwitch](https://soundswitch.aaflalo.me/)\*
 Switches the audio input/output device with a hotkey. Due to the fact that I use an old audio interface, I occasionally have issues. Sometimes, one of the virtual USB audio ports (from the computer to the audio interface) will just randomly stop working for a few minutes, so I have to switch to another one. This app cuts that process from ten seconds to one.
+
 `winget install AntoineAflalo.SoundSwitch`
+
 `scoop install soundswitch`
 
 ### [Spitfire Audio App](https://www.spitfireaudio.com/library-manager)
@@ -186,20 +235,25 @@ Another installer app.... D: but this one I actually use sometimes, so I'm keepi
 
 ### [Steam](https://store.steampowered.com/about)
 A gaming app that you've probably heard of.
+
 `winget install Valve.Steam`
 
 ### [SuperF4](https://stefansundin.github.io/superf4)\*
 A much faster way to force quit an app than going to Task Manager.
+
 `winget install StefanSundin.Superf4`
+
 `scoop install superf4`
  
 ### [Surge XT](https://surge-synthesizer.github.io)\*
 A VST2/VST3/CLAP/standalone synth. It can do quite a bit.
+
 `winget install SurgeSynthTeam.SurgeXT`
  
 ### [Sysinternals](https://learn.microsoft.com/en-us/sysinternals)
 Way too many Windows utilities, most of which I will *never* use.
-A few individual utilities can be installed with Winget, use `winget search Sysinternals` to find them.
+A few individual utilities can be installed with Winget, use 
+`winget search Sysinternals` to find them.
 `scoop install sysinternals`
 
 ### [Tablacus Explorer](https://tablacus.github.io/explorer_en.html)\*
@@ -211,21 +265,27 @@ A software sampler that can load various soundfonts and other things like that.
 ### [Unity/Unity Hub](https://unity.com)
 A game development environment, which I mostly use to make levels for Human Fall Flat (Unity Hub is the installer)
 Unity Hub:
+
 `winget install Unity.UnityHub`
+
 `scoop install unity-hub-np`
 Unity:
+
 `winget install Unity.Unity.2020` (or 2021, 2022...)
 
 ### [VCV Rack](https://vcvrack.com/Rack)\*
 A virtual modular synth, which is only somewhat open-source. The free community version is open-source, while the VST plugin Pro version is not.
+
 `winget install VCVRack.VCVRack`
 
 ### [Visual Studio](https://visualstudio.microsoft.com)
 "It’s how you make software." "What do you want to [code, build, debug, deploy, collaborate on, analyze, learn] today? Visual Studio can do that."
+
 `winget install Microsoft.VisualStudio.2022.Community` (and probably other years/versions as well)
 
 ### [Visual Studio Code](https://code.visualstudio.com)\*
 An open-source code editor with (quick Google) over 30,000 extensions.
+
 `winget install Microsoft.VisualStudioCode`
 
 ### [Vital Synth](https://vital.audio/)\*
@@ -233,7 +293,9 @@ A VST2/VST3/standalone synth. The only source code that has been made publicly a
  
 ### [VLC Media Player](https://www.videolan.org/vlc/)\*
 An open-source media player with a lot of features.
+
 `winget install VideoLAN.VLC`
+
 `scoop install vlc`
  
 ### [VSTHost](https://www.hermannseib.com/english/vsthost.htm)\*
@@ -244,17 +306,23 @@ Waveform Free is the only DAW I've ever found that has a free version that actua
 
 ### [WingetUI](https://github.com/marticliment/WingetUI)\*
 An open-source UI for Winget and Scoop. Very useful, especially its update blacklisting feature.
+
 `winget install SomePythonThings.WingetUIStore`
+
 `scoop install wingetui`
  
 ### [WizTree](https://diskanalyzer.com/)
 Basically [WinDirStat](https://windirstat.net/)\* but much faster and not open-source. It looks through all the files and shows a visual representation of their size. I don't really need this app with a 4TB spinning disk, but it would have been nice to have when I had a 256GB SSD.
+
 `winget install AntibodySoftware.WizTree`
+
 `scoop install wiztree`
  
 ### [Zoom](https://zoom.us)
 A video converencing app that everyone who lived through COVID probably knows about.
+
 `winget install Zoom.Zoom`
+
 `scoop install zoom`
 
 </details>
@@ -372,6 +440,7 @@ An open-source VST2, VST3, "Mac," and "Linux" plugin. I won't download those to 
 
 ### [Plogue Sforzando](https://www.plogue.com/products/sforzando.html)
 An SFZ soundfont player, also available as VST2/VST3.
+
 `winget install plogue.sforzando`
  
 ### [Spitfire BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover)
@@ -388,6 +457,7 @@ Not including a link to the official website because it just says, "unlock free 
  
 ### [Surge XT](https://surge-synthesizer.github.io)\*
 A VST2/VST3/CLAP/standalone synth. It can do quite a bit.
+
 `winget install SurgeSynthTeam.SurgeXT`
 
 ### [Tape Cassette 2](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2)
