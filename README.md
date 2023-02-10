@@ -1,6 +1,6 @@
 # Software On My Computer
-Literally just a(n incomplete) list of all the software (apps/VST plugins, etc.) I have on my computer (Windows 10).
-Everything is free (besides the games), and most of them (well, the apps, anyway) are open-source. None of the links are direct download links (or at least they weren't when I made this list).
+A complete (?) list of all the software (apps/VST plugins, etc.) I have on my computer (Windows 10).
+Everything is free (besides the games), and a lot is open-source. None of the links are direct download links (or at least they weren't when I made this list).
 An asterisk (\*) means that it's open-source. 
 
 <details><summary><h1>Apps</h1></summary>
@@ -28,6 +28,9 @@ This used to be my main DAW, before I discovered Bespoke, and later Waveform. I 
 
 ### [Carla](https://github.com/falkTX/Carla)\*
 "Carla is a fully-featured modular audio plugin host, with support for many audio drivers and plugin formats." It's also open-source and runs as a VST2, VST3, CLAP, and LV2 plugin, as well as a standalone app. Although Carla and Bespoke are very similar, I prefer Bespoke for various reasons.
+
+### [ClickPaste](https://github.com/Collective-Software/ClickPaste)\*
+A tool that makes pasting into certain places easier. Basically, you click the icon in the notification area, then click where you want it to "paste." Then, instead of actually pasting, it quickly types out the contents of your clipboard. Very useful for VNC.
 
 ### [Clink](https://mridgers.github.io/clink)\*
 Some command prompt utility I literally never use... although looking at the website, maybe I should. I installed it because [`autojump`](https://github.com/wting/autojump)\* depended on it, but then I couldn't get `autojump` working.
@@ -64,6 +67,9 @@ A nice screensaver
  
 ### [`midiflip`](https://github.com/1j01/midiflip)\*
 A command line utility that can flip MIDI files. It supports wildcards, so you could do something like `midiflip -i "midis/**/*.mid" -o "transformed/"` It requires [NodeJS](https://nodejs.org/en)\*.
+
+### [Micro](https://micro-editor.github.io/)\*
+Basically an open-source, cross-platform version of `nano`, with more features.
 
 ### [Muse Hub](https://www.musehub.com)
 An app used to download things like MuseScore 4, Muse Sounds, Audacity, and a couple of other things. But I'm literally going to uninstall this as soon as I finish this list... I hate this app for several reasons. Firstly, I just hate app installers that are also apps that need installation. It just seems ridiculous. Secondly (and most importantly), it installs a service that automatically runs in the background and makes it really annoying to get rid of. Uninstalling Muse Hub doesn't get rid of it, the folder it's in has... weird permissions, and you can't set the service to "manual" because you don't have permissions to do that, and you don't have permission to change the permission. While it could just be the torrent client it claims to be, there's no way to know, since it's not open-source. Basically, if it *is* a virus or something (I doubt it is, but still), it's a very well-designed one. 
@@ -154,6 +160,9 @@ A VST2/VST3/standalone synth. The only source code that has been made publicly a
  
 ### [VLC Media Player](https://www.videolan.org/vlc/)\*
 An open-source media player with a lot of features.
+ 
+### [VSTHost](https://www.hermannseib.com/english/vsthost.htm)\*
+This is... a host... for VST plugins. About as simple as it gets. While this program *was* open-source (hence the asterisk), all versions since v1.16r are not. Anyway, several years ago, I found this on an old 32-bit Windows XP laptop, and had absolutely NO idea what it was, since at that point I'd never even heard of a VST plugin. A couple years later, I was looking for a way to get around what I thought was a problem with Cakewalk (turns out I just hadn't figured out how to do it) when I came across this. I downloaded it, then suddenly realized that I'd seen it before. I'll probably never use it again, since I've found other tools that do the job much better.
  
 ### [Waveform Free](https://www.tracktion.com/products/waveform-free)
 Waveform Free is the only DAW I've ever found that has a free version that actually has all the features of the full version. The only difference is that the free version lacks a few built-in plugins (such as the arpeggiator and various effects). But there are free alternatives to all or most of them, so it really is just a DAW. It doesn't even have the usual "free version" things like nag screens, constant reminders that you don't have the full version, and track limits. It also has a really cool plugin rack feature.
