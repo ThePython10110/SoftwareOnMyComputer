@@ -2,7 +2,6 @@
 A complete (?) list of all the software (apps/VST plugins, etc.) I have on my computer (Windows 10).
 Everything is free (besides the games), and a lot is open-source. None of the links are direct download links (or at least they weren't when I made this list).
 An asterisk (\*) means that it's open-source.
-Also, I didn't th
 
 <details><summary><h1>Apps</h1></summary>
 
